@@ -1,4 +1,4 @@
-fahrenheit = 72
+fahrenheit = int(input("Enter degrees fahrenheit: "))
 
 celsius = round(((fahrenheit - 32) * (5/9)), 1)
 
